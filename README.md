@@ -8,9 +8,9 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/Rozak-bot/Facebook-Cracker
+$ git clone https://github.com/Rozak-bot/Cracker
 
-$ cd Facebook-Cracker
+$ cd Cracker
 
 $ python2 Crack.py
 
