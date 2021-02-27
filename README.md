@@ -1,4 +1,4 @@
-# Cracker
+# Facebook Cracker
 
 Perintah Termux :
 
@@ -13,12 +13,3 @@ $ git clone https://github.com/Rozak-bot/Facebook-Cracker
 $ cd Facebook-Cracker
 
 $ python2 Crack.py
-
-
-# Login Menggunakan Token.
-
-
-Link Token : https://m.facebook.com/composer/ocelot/async_loader/?publisher=feed
-
-
-Kemudian Cari Tulisan EAAAA Copy Dan Tempelkan Di Termux
